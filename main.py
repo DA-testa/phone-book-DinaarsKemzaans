@@ -1,4 +1,4 @@
-# python3
+#Autors: Dinārs Kemzāns 17.grupa 221RDB321
 
 class Query:
     def __init__(self, query):
